@@ -1,1 +1,1 @@
-echo 'Deploy git'
+echo Deploy git
